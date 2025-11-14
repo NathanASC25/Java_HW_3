@@ -6,6 +6,7 @@ public class Ok {
 		sum++;
 	    }
 	}
+	// Result: 36
 	System.out.println(sum);
     }
 }
